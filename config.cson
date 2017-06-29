@@ -1,0 +1,31 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "a90e309d-56e6-4820-99f6-9edb2175e743"
+  "atom-material-ui":
+    colors:
+      abaseColor: "#41bae0"
+    tabs: {}
+    treeView:
+      compactList: true
+    ui: {}
+  core:
+    disabledPackages: [
+      "atom-ternjs"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax-dark"
+    ]
+    titleBar: "custom"
+  editor:
+    atomicSoftTabs: false
+    invisibles: {}
+    showInvisibles: true
+    softWrap: true
+    tabType: "hard"
+  "exception-reporting":
+    userId: "58a75131-8482-b745-f454-fd706f8a93c3"
+  welcome:
+    showOnStartup: false
